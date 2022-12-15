@@ -28,6 +28,4 @@ npm run build
 npm run build --report
 ```
 
-## 📝 License
 
-This project is under [MIT] license
